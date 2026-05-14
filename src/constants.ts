@@ -76,6 +76,6 @@ industry: 'General'
 
 
 export const GOOGLE_FORM_CONFIG = {
-  baseUrl: "https://docs.google.com/forms/d/e/1FAIpQLSd0AF_AOkOTdDl3mZDZiP35oyo5krjij_-uLEpMPU4Q3qie5A/viewform?usp=header",
+  baseUrl: "https://docs.google.com/forms/d/e/1FAIpQLScbOiJD3vrvu89aKHy4c_j23IfoBjtC4nVtFfkt380V9prxvQ/viewform?usp=header",
   templateEntryId: "entry.1635220487", // Keeping it same as fullName ID for now, user can update correctly
 };
