@@ -71,6 +71,38 @@ tag: 'Minimal',
 style: 'Clean',
 industry: 'General'
 },
+{
+id: 'a8',
+name: 'Tech',
+image: '/R1_page-0001.jpg',
+tag: 'Minimal',
+style: 'Clean',
+industry: 'General'
+},
+{
+id: 'a8',
+name: 'Management',
+image: '/R2_page-0001.jpg',
+tag: 'Minimal',
+style: 'Clean',
+industry: 'General'
+},
+{
+id: 'a8',
+name: 'Marketing',
+image: '/R3_page-0001.jpg',
+tag: 'Minimal',
+style: 'Clean',
+industry: 'General'
+},
+{
+id: 'a8',
+name: 'Student',
+image: '/R4_page-0001.jpg',
+tag: 'Minimal',
+style: 'Clean',
+industry: 'General'
+},
 
 ];
 
