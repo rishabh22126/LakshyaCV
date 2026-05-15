@@ -9,6 +9,7 @@ import { FeedbackShowcase } from './components/FeedbackShowcase';
 import { Testimonials } from './components/Testimonials';
 import { Footer } from './components/Footer';
 import { TemplatesPage } from './pages/TemplatesPage';
+import { CareersPage } from './pages/CareersPage';
 import ScrollToTop from './components/ScrollToTop';
 
 function LandingPage() {
@@ -35,6 +36,8 @@ export default function App() {
           <Routes>
             <Route path="/" element={<LandingPage />} />
             <Route path="/templates" element={<TemplatesPage />} />
+            {/* Career page route */}
+            <Route path="/careers" element={<CareersPage />} />
           </Routes>
         </div>
         <Footer />

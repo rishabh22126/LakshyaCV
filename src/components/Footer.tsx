@@ -37,6 +37,8 @@ export function Footer() {
             <ul className="space-y-4 font-bold text-sm">
               <li><a href="#templates" className="text-slate-400 hover:text-primary transition-colors">Resume Engine</a></li>
               <li><a href="#how-it-works" className="text-slate-400 hover:text-primary transition-colors">The Process</a></li>
+              {/* Career page link */}
+              <li><Link to="/careers" className="text-slate-400 hover:text-primary transition-colors">Careers</Link></li>
               <li><a href="/templates" className="text-slate-400 hover:text-primary transition-colors">Browse Layouts</a></li>
               <li><Link to="/build/classic" className="text-slate-400 hover:text-primary transition-colors">Instant Build</Link></li>
             </ul>
